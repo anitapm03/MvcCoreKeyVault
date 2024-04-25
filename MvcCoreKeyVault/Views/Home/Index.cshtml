@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Key Vault</h1>
+
+    <form method="post">
+        <label>Key vault secret</label>
+        <input type="text" name="secretkey" class="form-control"/>
+        <button class="btn btn-danger">Modstrar secreto</button>
+    </form>
+
+    <h2 style="color:purple;">@ViewData["SECRETO"]</h2>
+
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

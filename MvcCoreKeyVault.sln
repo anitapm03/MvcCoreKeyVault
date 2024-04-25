@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreKeyVault", "MvcCoreKeyVault\MvcCoreKeyVault.csproj", "{55BEFA8B-1E7E-49EF-A3E2-887F27BBC289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BEFA8B-1E7E-49EF-A3E2-887F27BBC289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BEFA8B-1E7E-49EF-A3E2-887F27BBC289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BEFA8B-1E7E-49EF-A3E2-887F27BBC289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BEFA8B-1E7E-49EF-A3E2-887F27BBC289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11E9DC04-8060-48BF-8FBD-1897AC434ADC}
+	EndGlobalSection
+EndGlobal
